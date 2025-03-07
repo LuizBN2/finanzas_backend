@@ -1,0 +1,14 @@
+com\luizbn2\finanzas\services\DeudaService.class
+com\luizbn2\finanzas\repositories\DeudaRepository.class
+com\luizbn2\finanzas\controllers\DeudaController.class
+com\luizbn2\finanzas\controllers\IngresoController.class
+com\luizbn2\finanzas\entities\Gasto.class
+com\luizbn2\finanzas\services\ReporteService.class
+com\luizbn2\finanzas\FinanzasApplication.class
+com\luizbn2\finanzas\repositories\GastoRepository.class
+com\luizbn2\finanzas\entities\Ingreso.class
+com\luizbn2\finanzas\services\GastoService.class
+com\luizbn2\finanzas\repositories\IngresoRepository.class
+com\luizbn2\finanzas\entities\Deuda.class
+com\luizbn2\finanzas\services\IngresoService.class
+com\luizbn2\finanzas\controllers\GastoController.class
